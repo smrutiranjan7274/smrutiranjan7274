@@ -122,3 +122,9 @@
 <a href="https://www.buymeacoffee.com/smrutiranjan" target="blank">
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="smrutiranjan" />
 </a>
+
+<a href="https://paypal.me/smruti7274" target="blank">
+  <img align="left" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="35" width="150" alt="smruti7274"/>
+</a>
+
+
