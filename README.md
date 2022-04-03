@@ -1,9 +1,9 @@
-# Hi there 👋, myself Smruti Ranjan Bhanja
-### Student | Designer | Developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutiranjan7274&label=Profile%20views&color=0e75b6&style=flat" alt="smrutiranjan7274"/></p>
+# <p align="center">ＨＯＬＡ ！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p> <p align="center">Myself Smruti Ranjan Bhanja</p>
+### <p align="center">Student | Designer | Developer</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutiranjan7274&label=Profile%20views&color=0e75b6&style=flat" alt="smrutiranjan7274"/></p> -->
 
 <!-- About -->
-<p><h3>ABOUT ME</h3></p>
+<p><h3>😎 ABOUT ME</h3></p>
 
 - 🔭 I’m currently working on **Spacescape** (An android game live on playstore)
 - 🌱 I’m currently learning Flutter
@@ -12,23 +12,38 @@
 - ⚡ Fun fact: **You would need 711 floppy disks to equal 1 Gigabyte.**
 
 <!-- Trophies -->
-<p> <h3 align="center">TROPHIES</h3> </p>
+<p> <h3 align="left">🏆 TROPHIES</h3> </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smrutiranjan7274&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="smrutiranjan7274"/>
 </p>
 
-
 <!-- Stats -->
-<p> <h3 align="center">STATS</h3> </p>
+<p> <h3 align="left">✔️ STATS</h3> </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smrutiranjan7274&show_icons=true&theme=onedark&no-frame=true" alt="smrutiranjan7274"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smrutiranjan7274&show_icons=true&theme=onedark" alt="smrutiranjan7274"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrutiranjan7274&show_icons=true&theme=onedark" alt="smrutiranjan7274"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrutiranjan7274&show_icons=true&theme=onedark&no-frame=true" alt="smrutiranjan7274"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutiranjan7274&show_icons=true" alt="smrutiranjan7274">
+</p>
+
+<!-- Projects -->
+### 🏹 PROJECTS
+<p style="display: flex; justify-content: space-evenly; flex-wrap: wrap;" align=center>
+  <a href="https://github.com/smrutiranjan7274/PongSoccer" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=PongSoccer&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/smrutiranjan7274/LGMVIP-Web-Development">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=LGMVIP-Web-Development&theme=tokyonight"/>
+  </a>
+<!--   <a href="https://github.com/smrutiranjan7274/Spacescape">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=Spacescape&theme=tokyonight" />
+  </a> -->
 </p>
 
 <!-- Languages & Tool -->
-#### LANGUAGES & TOOLS
+### 📚 LANGUAGES & TOOLS
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/></a>
@@ -79,7 +94,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="40" height="40"/></a>
   
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/></a>
@@ -96,7 +111,7 @@
 </p>
 
 <!-- Connect -->
-#### CONNECT
+### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> LET'S CONNECT
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/srb7274" target="blank">
@@ -121,7 +136,7 @@
 
 
 <!-- Support Me -->
-#### SUPPORT ME
+### 🫶 SUPPORT ME
 <a href="https://www.buymeacoffee.com/smrutiranjan" target="blank">
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="smrutiranjan" />
 </a>
