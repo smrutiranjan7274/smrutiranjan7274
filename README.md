@@ -1,6 +1,6 @@
 # <p align="center">ＨＯＬＡ ！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p> <p align="center">Myself Smruti Ranjan Bhanja</p>
 ### <p align="center">Student | Designer | Developer</p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutiranjan7274&label=Profile%20views&color=0e75b6&style=flat" alt="smrutiranjan7274"/></p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutiranjan7274&label=Profile%20views&color=0e75b6&style=flat" alt="smrutiranjan7274"/></p>
 
 <!-- About -->
 <p><h3>😎 ABOUT ME</h3></p>
