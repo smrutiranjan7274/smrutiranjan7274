@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **Android Apps, Games on Unity, HTML**
 - 📫 How to reach me: smrutibhanja32@gmail.com
-- ⚡ Fun fact: **You would need 711 floppy disks to equal 1 Gigabyte.**
+<!-- - ⚡ Fun fact: **You would need 711 floppy disks to equal 1 Gigabyte.** -->
 
 <!-- Trophies -->
 <p> <h3 align="left">🏆 TROPHIES</h3> </p>
@@ -43,7 +43,7 @@
 </p>
 
 <!-- Languages & Tool -->
-### 📚 LANGUAGES & TOOLS
+### LANGUAGES & TOOLS
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/></a>
@@ -115,12 +115,16 @@
 </p>
 
 <!-- Connect -->
-### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> LET'S CONNECT
+### <!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> --> LET'S CONNECT
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/srb7274" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40"/>
   </a>
+  
+  <!-- Twitter -->
+  <a href="https://twitter.com/sr_bhanja" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
   
   <!-- Instagram -->
   <a href="https://instagram.com/s.bhanja" target="blank">
@@ -140,6 +144,7 @@
 
 
 <!-- Support Me -->
+<!-- 
 ### 🫶 SUPPORT ME
 <a href="https://www.buymeacoffee.com/smrutiranjan" target="blank">
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="smrutiranjan" />
@@ -147,6 +152,6 @@
 
 <a href="https://paypal.me/smruti7274" target="blank">
   <img align="left" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="35" width="150" alt="smruti7274"/>
-</a>
+</a> -->
 
 
