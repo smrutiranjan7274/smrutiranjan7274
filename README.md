@@ -26,6 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutiranjan7274&show_icons=true" alt="smrutiranjan7274">
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=smrutiranjan7274&show_icons=true&theme=merko" alt="smrutiranjan7274"> -->
 </p>
 
 <!-- Projects -->
