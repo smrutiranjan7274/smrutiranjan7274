@@ -32,15 +32,18 @@
 <!-- Projects -->
 ### 🏹 PROJECTS
 <p style="display: flex; justify-content: space-evenly; flex-wrap: wrap;" align=center>
-  <a href="https://github.com/smrutiranjan7274/PongSoccer" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=Spacescape&theme=tokyonight"/>
+  <a href="https://github.com/smrutiranjan7274/Spacescape">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=Spacescape&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/smrutiranjan7274/turbo-octo-invention">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=turbo-octo-invention&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/smrutiranjan7274/web-baked-windows11" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=web-baked-windows11&theme=tokyonight"/>
   </a>
   <a href="https://github.com/smrutiranjan7274/LGMVIP-Web-Development">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=LGMVIP-Web-Development&theme=tokyonight"/>
   </a>
-<!--   <a href="https://github.com/smrutiranjan7274/Spacescape">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrutiranjan7274&repo=Spacescape&theme=tokyonight" />
-  </a> -->
 </p>
 
 <!-- Languages & Tool -->
