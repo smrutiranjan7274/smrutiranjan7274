@@ -5,9 +5,9 @@
 <!-- About -->
 <p><h3>😎 ABOUT ME</h3></p>
 
-- 🔭 I’m currently working on **Spacescape** (An android game live on playstore)
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about **Android Apps, Games on Unity, HTML**
+- 🔭 I’m currently working on **Automation frameworks**
+- 🌱 I’m currently exploring to implement **AI in testing frameworks**
+<!-- - 💬 Ask me about **Selenium, Software Testing, Automation frameworks** -->
 - 📫 How to reach me: smrutibhanja32@gmail.com
 <!-- - ⚡ Fun fact: **You would need 711 floppy disks to equal 1 Gigabyte.** -->
 
