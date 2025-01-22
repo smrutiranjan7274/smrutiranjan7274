@@ -21,7 +21,7 @@
 <p> <h3 align="left">✔️ STATS</h3> </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smrutiranjan7274&show_icons=true&theme=onedark" alt="smrutiranjan7274"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrutiranjan7274&show_icons=true&theme=onedark" alt="smrutiranjan7274"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrutiranjan7274&show_icons=true&theme=onedark" alt="smrutiranjan7274"/> -->
 </p>
 
 <p align="center">
